@@ -395,18 +395,12 @@ Future improvements may include shared storage.
 # Future Improvements
 
 * HTTPS support
-* Route53 custom domain
 * ACM SSL certificates
 * Shared storage for media uploads
-* CI/CD pipeline
 * Terraform modules
 * Remote Terraform state
 * CloudWatch monitoring
-* SNS notifications
-* WAF integration
-
 ---
-
 # Lessons Learned
 
 * Infrastructure as Code principles.
